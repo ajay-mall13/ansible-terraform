@@ -238,6 +238,9 @@ Open browser:
 ```
 http://<server-ip>
 ```
+![alt text](<Screenshot 2026-04-17 191136.png>)
+![alt text](<Screenshot 2026-04-17 191059.png>)
+![alt text](<Screenshot 2026-04-17 191047.png>)
 
 You should see:
 - Nginx or Apache default page
